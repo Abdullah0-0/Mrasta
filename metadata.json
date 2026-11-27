@@ -1,0 +1,8 @@
+{
+  "name": "Mrasta - Peshawar Civic & Transit Assistant",
+  "description": "Peshawar public services, government procedures, document checklists, and Zu BRT transit navigator in Pashto, Urdu, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
